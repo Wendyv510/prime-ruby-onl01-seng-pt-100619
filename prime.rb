@@ -22,6 +22,6 @@ def prime?(integer)
   prime?1
   prime?4
   prime?40
-  prime?
-  prime?
+  prime?1763
+  prime?101013
   
