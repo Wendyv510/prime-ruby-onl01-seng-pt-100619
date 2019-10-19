@@ -13,4 +13,12 @@ def prime?(integer)
   end 
   
   prime? 2 
+  prime?3
+  prime?11
+  prime?105557
+  
+  prime?
+  prime?
+  prime?
+  prime?
   
