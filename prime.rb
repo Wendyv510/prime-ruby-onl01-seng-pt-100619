@@ -17,8 +17,11 @@ def prime?(integer)
   prime?11
   prime?105557
   
-  prime?
-  prime?
+  prime?-1
+  prime?0
+  prime?1
+  prime?4
+  prime?40
   prime?
   prime?
   
