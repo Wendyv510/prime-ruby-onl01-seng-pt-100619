@@ -2,7 +2,7 @@
 
 
 def prime?(integer)
-  integer = (-10,000 .. 10,000).to_a 
+  integer = math.random ().to_a 
   prime?.each do |number|
     if {|number| n / n == 1}
       "true, prime number"
