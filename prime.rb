@@ -9,7 +9,8 @@ def prime?(integer)
       "true, prime number"
     else {|number| n / 3 == (integer), n/2 == (integer), n/5 == (integer)} 
       "false, composite number"
-    end 
+    end
+  end 
   end 
   
   prime? 2 
